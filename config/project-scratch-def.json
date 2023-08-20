@@ -1,0 +1,27 @@
+{
+  "orgName": "samir company",
+  "edition": "Developer",
+  "description": "some description",
+  "language": "en_US",
+  "adminEmail": "samir.guemri@gmail.com",
+  "hasSampleData": false,
+  "features": [
+    "EnableSetPasswordInApi",
+    "Communities",
+    "Sites"
+  ],
+  "settings": {
+    "lightningExperienceSettings": {
+      "enableS1DesktopEnabled": true
+    },
+    "mobileSettings": {
+      "enableS1EncryptedStoragePref2": false
+    },
+    "communitiesSettings": {
+      "enableNetworksEnabled": true
+    },
+    "experienceBundleSettings": {
+        "enableExperienceBundleMetadata": true
+    }
+  }
+}
